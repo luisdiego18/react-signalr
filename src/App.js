@@ -9,11 +9,11 @@ import Typography from "@mui/material/Typography";
 import "./App.css";
 
 const App = () => {
-	// const apiEndpoint = "https://medalwebapp.azurewebsites.net/Api/country";
-	// const hubEndpoint = "https://medalshub.azurewebsites.net/medalsHub";
+	const apiEndpoint = "https://medalwebapp.azurewebsites.net/Api/country";
+	const hubEndpoint = "https://medalshub.azurewebsites.net/medalsHub";
 
-	const apiEndpoint = "https://localhost:5001/api/country";
-	const hubEndpoint = "https://localhost:5001/medalsHub"
+	// const apiEndpoint = "https://localhost:5001/api/country";
+	// const hubEndpoint = "https://localhost:5001/medalsHub"
 
 
 
