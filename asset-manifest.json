@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-signalr/static/css/main.397aa720.css",
-    "main.js": "/react-signalr/static/js/main.5af5b28d.js",
+    "main.js": "/react-signalr/static/js/main.40ed7957.js",
     "static/js/787.9e3f6da8.chunk.js": "/react-signalr/static/js/787.9e3f6da8.chunk.js",
     "index.html": "/react-signalr/index.html",
     "main.397aa720.css.map": "/react-signalr/static/css/main.397aa720.css.map",
-    "main.5af5b28d.js.map": "/react-signalr/static/js/main.5af5b28d.js.map",
+    "main.40ed7957.js.map": "/react-signalr/static/js/main.40ed7957.js.map",
     "787.9e3f6da8.chunk.js.map": "/react-signalr/static/js/787.9e3f6da8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.397aa720.css",
-    "static/js/main.5af5b28d.js"
+    "static/js/main.40ed7957.js"
   ]
 }
